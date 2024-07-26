@@ -1,3 +1,4 @@
+#!/usr/bin/env pyhton3
 from bs4 import BeautifulSoup
 import requests
 
